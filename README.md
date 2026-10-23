@@ -1,2 +1,2 @@
-# Kickstarter-Indie-Oyunlar-nda-Fonlanma-Ba-ar-s-ve-Risk-Analizi
+# Kickstarter Indie Oyunlarında Fonlanma Basarısı ve Risk Analizi
 Proje
