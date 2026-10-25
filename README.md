@@ -6,8 +6,7 @@ Bu projenin amacı; bağımsız (indie) oyun geliştiricilerinin Kickstarter pla
 ## Ekip ve Roller
 - **Azra Naz Savcı** · Developer (Geliştirici / Kod Sorumlusu) · @sonderNverse
 - ** ** · İş Analisti (Süreç ve İletişim Sorumlusu) · @
-- ** ** · Tester & Dokümantasyon (Kalite ve Rapor Sorumlusu) · @
-
+- **Hatice Sevde Nurlu** · Tester & Dokümantasyon (Kalite ve Rapor Sorumlusu) · @sevdenurlu
 ## Problem ve Hedef Kullanıcı
 - **Problem:** Bağımız oyun geliştiricileri finansal bütçe yetersizliğinden dolayı projelerini tamamlayamamaktadır. Kitlesel fonlama sitelerinde açılan kampanyaların büyük kısmı ise yanlış bütçe hedefi ve kampanya süresi seçimi gibi risk faktörleri yüzünden başarısızlıkla sonuçlanmaktadır.
 - **Hedef Kullanıcı:** Kısıtlı bütçeyle oyun geliştiren ve Kickstarter platformundan destek arayan bağımsız oyun stüdyoları ve bireysel yazılımcılar.
