@@ -3,10 +3,6 @@
 ## Proje Amacı
 Bu projenin amacı; bağımsız (indie) oyun geliştiricilerinin Kickstarter platformunda açacakları yeni oyun kampanyalarının fonlanma başarı ihtimalini ve risklerini makine öğrenmesi modelleriyle tahmin etmektir. Böylece hatalı bütçe ve kampanya süresi kararlarından kaynaklanan başarısızlık risklerinin en aza indirilmesi hedeflenmektedir.
 
-## Ekip ve Roller
-- **Azra Naz Savcı** · Developer (Geliştirici / Kod Sorumlusu) · @sonderNverse
-- ** ** · İş Analisti (Süreç ve İletişim Sorumlusu) · @
-- **Hatice Sevde Nurlu** · Tester & Dokümantasyon (Kalite ve Rapor Sorumlusu) · @sevdenurlu
 ## Problem ve Hedef Kullanıcı
 - **Problem:** Bağımız oyun geliştiricileri finansal bütçe yetersizliğinden dolayı projelerini tamamlayamamaktadır. Kitlesel fonlama sitelerinde açılan kampanyaların büyük kısmı ise yanlış bütçe hedefi ve kampanya süresi seçimi gibi risk faktörleri yüzünden başarısızlıkla sonuçlanmaktadır.
 - **Hedef Kullanıcı:** Kısıtlı bütçeyle oyun geliştiren ve Kickstarter platformundan destek arayan bağımsız oyun stüdyoları ve bireysel yazılımcılar.
@@ -30,3 +26,12 @@ Proje 14 haftalık süre içince şu aşamaları tamamlayacaktır:
 - Proje için hiçbir web sitesi arayüzü, mobil uygulama veya web formu yapılmayacaktır.
 - Sistem sadece VS Code terminalden çalışacaktır.
 - Canlı internet sitesinden anlık veri çekilmeyecektir. Tamamen indirilmiş mevcut veri seti kullanılacaktır.
+
+## Varsayımlar
+- Veri setinde yer alan geçmiş Kickstarter projelerinin fonlanma durumlarının (Başarılı/Başarısız) doğru etiketlendiği varsayılmıştır.
+- Oyun kategorileri, hedef bütçe ve kampanya sürelerinin fonlanma başarısı üzerinde anlamlı birer ayırt edici özellik (feature) olduğu varsayılmaktadır.
+
+## Ekip ve Roller
+- **Azra Naz Savcı** · Developer (Geliştirici / Kod Sorumlusu) · @sonderNverse
+- ** ** · İş Analisti (Süreç ve İletişim Sorumlusu) · @
+- **Hatice Sevde Nurlu** · Tester & Dokümantasyon (Kalite ve Rapor Sorumlusu) · @sevdenurlu
