@@ -33,5 +33,5 @@ Proje 14 haftalık süre içince şu aşamaları tamamlayacaktır:
 
 ## Ekip ve Roller
 - **Azra Naz Savcı** · Developer (Geliştirici / Kod Sorumlusu) · @sonderNverse
-- ** ** · İş Analisti (Süreç ve İletişim Sorumlusu) · @
+- **AyşegülSencer** · İş Analisti (Süreç ve İletişim Sorumlusu) · @SleepyGoat7
 - **Hatice Sevde Nurlu** · Tester & Dokümantasyon (Kalite ve Rapor Sorumlusu) · @sevdenurlu
