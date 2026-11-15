@@ -80,3 +80,19 @@ Projemizde bağımsız oyunların fonlanma başarısını tahmin etmek ve risk a
 * **Akademik Gerekçe:** **Logistic Regression**, sınıflandırma problemlerinde doğrusal ilişkileri açıklayabilen yüksek yorumlanabilirliğe sahip temel bir referans model sunarken; **Random Forest** ve **Gradient Boosting** gibi topluluk (ensemble) öğrenme yöntemleri, oyun bütçesi, kategori ve süre gibi değişkenler arasındaki karmaşık ve doğrusal olmayan (non-linear) örüntüleri yüksek doğrulukla yakalayabilmektedir. Bu sayede modellerin performansları karşılaştırılarak en güvenilir risk analiz altyapısı kurulacaktır.
 
 
+## 5. Hafta: Sistem Tasarımı ve UML Diyagramları
+
+Projenin mimari yapısını, aktör etkileşimlerini ve veri işleme akışını belgelemek amacıyla UML diyagramları oluşturulmuştur.
+
+### 1. Kullanım Durumu (Use Case) Diyagramı
+Sistem sınırları içerisinde **Veri Analisti** aktörünün veri çekme, temizleme, eğitim/test bölme ve model eğitimi süreçleriyle etkileşimini gösterir.
+![Use Case Diyagramı] (docs/uml/use_case.png)
+
+### 2. Sınıf (Class) Diyagramı
+Kickstarter veri seti varlıklarını (`Proje`, `Kampanya Dönemi`, `Model Metrikleri`) ve aralarındaki çokluk ilişkilerini tanımlar.
+![Class Diyagramı] (docs/uml/class_diagram.png)
+
+### 3. Aktivite (Activity) Diyagramı
+Veri sızıntısını (Data Leakage) önlemek için ön işleme adımlarından önce `%80 eğitim / %20 test` bölünmesini uygulayan modelleme iş akışını gösterir.
+![Activity Diyagramı] (docs/uml/activity_diagram.png)
+
