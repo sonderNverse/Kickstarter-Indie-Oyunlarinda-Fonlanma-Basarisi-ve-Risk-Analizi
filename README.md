@@ -96,3 +96,6 @@ Kickstarter veri seti varlıklarını (`Proje`, `Kampanya Dönemi`, `Model Metri
 Veri sızıntısını (Data Leakage) önlemek için ön işleme adımlarından önce `%80 eğitim / %20 test` bölünmesini uygulayan modelleme iş akışını gösterir.
 ![Activity Diyagramı] (docs/uml/activity_diagram.png)
 
+## 🔗 Google Colab Analiz Bağlantısı ve Özet
+* **Google Colab Notebook:** [Analiz Defterini Aç](https://colab.research.google.com/drive/1R2xrXNEmRhAomDikI9tW33SDqKbvYZIv?usp=sharing)
+* **Analiz Özeti:** Kickstarter veri seti okunarak eksik değer kontrolleri, temel özet istatistikleri ve fonlanma durumu dağılım grafiği üretilmiş; veri sızıntısını önlemek amacıyla veri seti %80 eğitim ve %20 test kümelerine ayrılmıştır. Elde edilen özet çıktılar ve dağılım grafiği, sonraki modelleme adımları için temel referansı oluşturmaktadır.
